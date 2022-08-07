@@ -19,9 +19,9 @@ Built on [Pterodactyl](https://pterodactyl.io), this software is designed from t
 * Many, many more quality-of-life improvements throughout the software.
 
 ## Links
-* [Site](https://jexactyl.com)
-* [Documentation](https://docs.jexactyl.com)
-* [GitHub](https://github.com/jexactyl)
+* [Site](https://site.battles.ml)
+* [Documentation](https://docs.battles.ml)
+* [GitHub](https://github.com/SHASHANK2341)
 * [Discord](https://discord.gg/qttGR4Z5Pk)
 
 ## Sponsors
@@ -38,4 +38,4 @@ Built on [Pterodactyl](https://pterodactyl.io), this software is designed from t
 Some Javascript and CSS used within the panel are licensed under a `MIT` or `Apache 2.0` license. Please check their
 respective header files for more information.
 
- *Jexactyl is not affiliated with [Pterodactyl Software](https://pterodactyl.io).*
+ *BTACTYL is not affiliated with [Pterodactyl Software](https://pterodactyl.io).*
